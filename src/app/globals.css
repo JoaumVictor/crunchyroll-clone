@@ -16,6 +16,17 @@
   }
 }
 
+* {
+<<<<<<< Updated upstream
+  margin: 0;
+  padding: 0;
+=======
+  padding: 0;
+  margin: 0;
+>>>>>>> Stashed changes
+  box-sizing: border-box;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
