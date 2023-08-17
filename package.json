@@ -24,11 +24,8 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-<<<<<<< Updated upstream
-    "@svgr/webpack": "^8.1.0"
-=======
     "@svgr/webpack": "^8.1.0",
     "babel-plugin-inline-react-svg": "^2.0.2"
->>>>>>> Stashed changes
   }
 }
+
